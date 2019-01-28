@@ -47,6 +47,7 @@ namespace CharacterMostCommonlyUsed
                 }
             }
 
+            //Returning the character most commonly used, and verifying if exists more than 1
             var maxChar = ReturnCharacterMostCommon(dic);
 
             return maxChar;
