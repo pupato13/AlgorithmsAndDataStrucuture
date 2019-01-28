@@ -1,0 +1,6 @@
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\IntegerReversal\IntegerReversal\bin\Debug\IntegerReversal.exe.config
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\IntegerReversal\IntegerReversal\bin\Debug\IntegerReversal.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\IntegerReversal\IntegerReversal\bin\Debug\IntegerReversal.pdb
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\IntegerReversal\IntegerReversal\obj\Debug\IntegerReversal.csprojResolveAssemblyReference.cache
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\IntegerReversal\IntegerReversal\obj\Debug\IntegerReversal.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\IntegerReversal\IntegerReversal\obj\Debug\IntegerReversal.pdb

@@ -1,0 +1,15 @@
+﻿Given an integer, return an integer that is the reverse ordering of numbers.
+
+########## Examples ##########
+
+ReverseInt(15) == 51
+
+ReverseInt(981) == 189
+
+ReverseInt(500) == 5
+
+ReverseInt(-15) == -51
+
+ReverseInt(-90) == -9
+
+function ReverseInt (int) { }

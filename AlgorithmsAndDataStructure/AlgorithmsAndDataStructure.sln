@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReversal", "StringRev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromes", "Palindromes\Palindromes\Palindromes.csproj", "{45A7485B-8347-41C6-A3F0-F9628DF6520A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerReversal", "IntegerReversal\IntegerReversal\IntegerReversal.csproj", "{B0A16818-DE4B-41A5-AA31-DD19CAE851F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{45A7485B-8347-41C6-A3F0-F9628DF6520A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45A7485B-8347-41C6-A3F0-F9628DF6520A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45A7485B-8347-41C6-A3F0-F9628DF6520A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0A16818-DE4B-41A5-AA31-DD19CAE851F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A16818-DE4B-41A5-AA31-DD19CAE851F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A16818-DE4B-41A5-AA31-DD19CAE851F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A16818-DE4B-41A5-AA31-DD19CAE851F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
