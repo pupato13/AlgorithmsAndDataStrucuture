@@ -42,10 +42,7 @@ namespace StringReversal
 
         private static bool IsEqual(string text, string textComparison)
         {
-            if (text == textComparison)
-                return true;
-
-            return false;
+            return text == textComparison;
         }
 
         private static string ReverseWithAggregate(string text)
