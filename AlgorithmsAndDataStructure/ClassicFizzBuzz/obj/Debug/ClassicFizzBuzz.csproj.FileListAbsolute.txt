@@ -1,0 +1,6 @@
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\ClassicFizzBuzz\bin\Debug\ClassicFizzBuzz.exe.config
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\ClassicFizzBuzz\bin\Debug\ClassicFizzBuzz.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\ClassicFizzBuzz\bin\Debug\ClassicFizzBuzz.pdb
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\ClassicFizzBuzz\obj\Debug\ClassicFizzBuzz.csprojResolveAssemblyReference.cache
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\ClassicFizzBuzz\obj\Debug\ClassicFizzBuzz.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\ClassicFizzBuzz\obj\Debug\ClassicFizzBuzz.pdb
