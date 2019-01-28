@@ -1,11 +1,11 @@
 ﻿Given a string, return a new string with the reversed order of characters.
 
-Examples
+########## Examples ##########
 
-reverse(“apple”) === “elppa”
+Reverse(“apple”) == “elppa”
 
-reverse(“hello”) === “olleh”
+Reverse(“hello”) == “olleh”
 
-reverse(“Greetings!”) === “!sgniteerG”
+Reverse(“Greetings!”) == “!sgniteerG”
 
-function reverse (string) { }
+function Reverse (string) { }

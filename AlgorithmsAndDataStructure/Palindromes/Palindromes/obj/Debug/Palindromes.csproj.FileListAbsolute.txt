@@ -1,0 +1,6 @@
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\Palindromes\Palindromes\bin\Debug\Palindromes.exe.config
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\Palindromes\Palindromes\bin\Debug\Palindromes.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\Palindromes\Palindromes\bin\Debug\Palindromes.pdb
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\Palindromes\Palindromes\obj\Debug\Palindromes.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\Palindromes\Palindromes\obj\Debug\Palindromes.pdb
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\Palindromes\Palindromes\obj\Debug\Palindromes.csprojResolveAssemblyReference.cache
