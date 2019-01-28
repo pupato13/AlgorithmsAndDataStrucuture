@@ -1,0 +1,6 @@
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\StringReversal\bin\Debug\StringReversal.exe.config
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\StringReversal\bin\Debug\StringReversal.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\StringReversal\bin\Debug\StringReversal.pdb
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\StringReversal\obj\Debug\StringReversal.csprojResolveAssemblyReference.cache
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\StringReversal\obj\Debug\StringReversal.exe
+C:\AlgorithmsDataStructure\AlgorithmsAndDataStructure\StringReversal\obj\Debug\StringReversal.pdb
